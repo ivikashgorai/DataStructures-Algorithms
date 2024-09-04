@@ -12,7 +12,7 @@
 - [Union of two arrays](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1# "view question") - [Cpp Solution](./solutions/Union%20of%20two%20arrays.cpp)
 - [Cyclically rotate an array by one](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1# "view question") - [Cpp Solution](./solutions/Cyclically%20rotate%20an%20array%20by%20one.cpp)
 - [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1# "view question") - [Cpp Solution](./solutions/Kadane's%20Algorithm.cpp)
-- [Minimum number of jumps](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1# "view question") - [Cpp Solution](./solutions/Minimum%20number%20of%20jumps.cpp)
+- [Minimum number of jumps-Important](https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1# "view question") - [Cpp Solution](./solutions/Minimum%20number%20of%20jumps.cpp)
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/ "view question") - [Cpp Solution](./solutions/Find%20the%20Duplicate%20Number.cpp)
 - [Merge Intervals](https://leetcode.com/problems/merge-intervals/ "view question") - [Cpp Solution](./solutions/Merge%20Intervals.cpp)
 - [Next Permutation](https://leetcode.com/problems/next-permutation/ "view question") - [Cpp Solution](./solutions/Next%20Permutation.cpp)
